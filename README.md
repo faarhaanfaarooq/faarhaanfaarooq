@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pysolanki&label=Profile%20views&color=0e75b6&style=flat" alt="faarhaanfaarooq" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thepysolanki" target="blank"><img src="https://img.shields.io/twitter/follow/thepysolanki?logo=twitter&style=for-the-badge" alt="thepysolanki" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thepysolanki" target="blank"><img src="https://img.shields.io/twitter/follow/thepysolanki?logo=twitter&style=for-the-badge" alt="faarhaanfaarooq" /></a> </p>
 
 - 💬 Ask me about **Data Science, Python, PostgreSQL**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/faarhaanfaarooq/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="27abhi27" height="30" width="40" /></a>
-<a href="https://kaggle.com/@pysolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/faarhaanfaarooq/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@pysolanki" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/27abhi27" target="blank"><img align="center" src="https://raw.githubusercontent.com/faarhaanfaarooq/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="27abhi27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faarhaanfaarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/faarhaanfaarooq/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="27abhi27" height="30" width="40" /></a>
+<a href="https://kaggle.com/@faarhaanfaarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/faarhaanfaarooq/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@pysolanki" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/faarhaanfaarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/faarhaanfaarooq/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="27abhi27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
