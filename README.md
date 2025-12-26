@@ -16,15 +16,15 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/faarhaanfaarooq" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/faarhaanfaarooq/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faarhaanfaarooq" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/faarhaanfaarooq" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/faarhaanfaarooq/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faarhaanfaarooq" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/faarhaanfaarooq" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/faarhaanfaarooq/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faarhaanfaarooq" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/faarhaanfaarooq" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - faarhaanfaarooq" />
+  </a>
+  <a href="https://www.kaggle.com/faarhaanfaarooq" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle - faarhaanfaarooq" />
+  </a>
+  <a href="https://leetcode.com/faarhaanfaarooq" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode - faarhaanfaarooq" />
+  </a>
 </p>
 
 ---
